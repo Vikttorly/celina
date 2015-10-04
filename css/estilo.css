@@ -1,0 +1,17 @@
+body{
+	font-size: 12px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: 50px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.imprimir{
+	
+}
+

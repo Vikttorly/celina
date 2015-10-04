@@ -1,0 +1,28 @@
+input{
+	 padding: 10px;
+  border: solid 1px #dcdcdc;
+  transition: box-shadow 0.3s, border 0.3s;
+}
+
+.input{
+		 padding: 10px;
+  border: solid 1px #dcdcdc;
+  transition: box-shadow 0.3s, border 0.3s;
+}
+
+body{
+	font-family: verdana;
+	color: white;
+}
+
+html {
+    background: url(fondo.jpg) no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#nuevoreporte{
+	margin-top: -90px;
+}
